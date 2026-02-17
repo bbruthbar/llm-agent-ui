@@ -7,11 +7,11 @@ Below is the initial design:
 
 ## Building blocks
 - This React + Typescript project was scaffolded using [Vite](https://vite.dev/)
--  Vite requires [Node.js](https://nodejs.org/en/) version 20.19+, 22.12+. 
+- Vite requires [Node.js](https://nodejs.org/en/) version 20.19+, 22.12+. 
 - [Shadcn/ui](https://ui.shadcn.com/) and [Tailwind CSS](https://tailwindcss.com/) - I chose these because I wanted to learn them.
-- Required Iconography [the Lucide icon set](https://lucide.dev). Install using `yarn add lucide-react`
+- Required Iconography the [Lucide icon set](https://lucide.dev).
 
-(View this project in action)[https://www.ruthcirillo.info/llm-agent-ui]
+[View this project in action](https://www.ruthcirillo.info/llm-agent-ui)
 
 ## Getting Started
 - Install the dependencies using `yarn install`
@@ -19,9 +19,9 @@ Below is the initial design:
 
 ## To Do
 This was a time boxed activity, so a few items still need polish. Here are some items I would improve upon (no particular order)
-* [] Add focus to node after "Add Node" button is clicked so a screen reader can announce the content.
-* [] Add Component test case.
-* [] Add Hover style on "Add Node" button.
-* [] Add theme colors for interactions.
-* [] Need clarification on display of nodes. Should the newly added node be displayed in the middle of the screen? Withthe current implementation, the last node added is at the bottom of the screen and the user would have to scroll to view it. 
+* [ ] Add focus to node after "Add Node" button is clicked so a screen reader can announce the content.
+* [ ] Add Component test case.
+* [ ] Add Hover style on "Add Node" button.
+* [ ] Add theme colors for interactions.
+* [ ] Need clarification on display of nodes. Should the newly added node be displayed in the middle of the screen? Withthe current implementation, the last node added is at the bottom of the screen and the user would have to scroll to view it. 
 
