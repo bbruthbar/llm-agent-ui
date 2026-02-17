@@ -3,7 +3,7 @@
 The purpose of this repository is to build an interface provided by the design team. The UI will display nodes with a question and edges (represented by arrows) that connect them together in a sequence. Clicking the “Add Node” button should append a new node to the end of the sequence.
 
 Below is the initial design:
-![the initial design](/assets/workflow-ui.png)
+![the initial design](assets/workflow-ui.png)
 
 ## Building blocks
 - This React + Typescript project was scaffolded using [Vite](https://vite.dev/)
